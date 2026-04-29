@@ -1,6 +1,6 @@
 # A New Biology: Navigating Our Future with an AI Co-pilot
 
-![Status](https://img.shields.io/badge/Status-Under_Review-yellow) ![Field](https://img.shields.io/badge/Field-Computational_Biology-blue) ![Focus](https://img.shields.io/badge/Focus-AI_Ethics_&_Integration-green)
+![Status](https://img.shields.io/badge/Status-Under_Review-yellow) ![Field](https://img.shields.io/badge/Field-Computational_Biology-blue) ![Focus](https://img.shields.io/badge/Focus-AI_Ethics_&_Integration-green) ![License](https://img.shields.io/badge/License-CC_BY_4.0-red)
 
 **Author:** Sarthak Prakash Srivastava  
 **Affiliation:** School of Life Sciences, Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow  
